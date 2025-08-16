@@ -10,3 +10,5 @@ Scratch Video Explanation | [Animal Parade](https://youtu.be/a9DfUzfvKkw)
 Snap Video Explanation | [Mouse draw octagon](https://youtu.be/Wnpo3E0a_t4)
 
 Snap Video Explanation | [Monkey Banana Game](https://youtu.be/8Af2gBYQI00)
+
+Snap Video Explanation | [Drawing different shapes](https://youtu.be/LI1FD57qR_Q)
