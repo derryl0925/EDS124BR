@@ -22,3 +22,5 @@ Snap Video Explanation | [Nested If](https://youtu.be/qrJKB1J94O0)
 Snap Video Explanation | [Conditionals](https://youtu.be/DO6GKxgkhJM)
 
 Snap Video Explanation | [Abstraction](https://youtu.be/EKKUZmmy2G4)
+
+Snap Video Explanation | [Lists](https://youtu.be/Tzjd9gz6BGg)
