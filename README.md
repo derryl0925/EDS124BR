@@ -18,3 +18,5 @@ Snap Video Explanation | [Conditional Loops Soccer Ball](https://youtu.be/0uansF
 Snap Video Explanation | [If Else](https://youtu.be/ecdjyBZNI3E)
 
 Snap Video Explanation | [Nested If](https://youtu.be/qrJKB1J94O0)
+
+Snap Video Explanation | [Conditionals](https://youtu.be/DO6GKxgkhJM)
